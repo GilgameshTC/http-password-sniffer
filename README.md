@@ -10,6 +10,10 @@ Website: http://testing-ground.scraping.pro/login (ip-address: 204.15.135.8)
 2. Visit the website that you passed into the script
 3. Key in user name & password, press login
 > e.g. user name: admin | password: 12345
+
+![](./images/step3.png)
 4. Run stop-sniffing script
 >`sudo ./stop-sniffing.sh`
+
 5. Done! You should see the user name & password inputed earlier being output to the terminal.
+![](./images/completed.png)
